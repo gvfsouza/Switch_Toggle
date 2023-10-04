@@ -1,2 +1,2 @@
 # Switch_Toggle
-Projeto realizado em Aula com o Intellj IDEA
+Projeto de Switch e Toggle realizado em Aula com o Intellj IDEA
